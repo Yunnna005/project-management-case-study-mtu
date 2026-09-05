@@ -61,15 +61,16 @@ Microsoft Project (Gantt chart & scheduling)
 
 ## Repository Contents
  
-- `SoftwareProjectManagement_AnnaKovalenko.pdf` — Full document with objectives, sponsor, scope, success criteria, etc.
-- `WBS.pdf` — full work breakdown structure
-- `Gantt_Chart.pdf` - Microsoft Project short overview
-- `GanttChart_Full.pdf` — Microsoft Project full chart overview
-- `GanttChart.mpp` - Gantt Chart in Microsoft Project
-- `Project-Cost-Estimate.pdf` — Full cost estimate
-- `Contract_Types.pdf` —  Contract type analysis
-- `Risk-Analysis.pdf` — risk analysis
-- `Communications_plan.pdf` — Methods, meetings, and reporting plan
+- [`SoftwareProjectManagement_AnnaKovalenko.pdf`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/SoftwareProjectManagement_AnnaKovalenko.pdf) — Full document with objectives, sponsor, scope, success criteria, etc.
+- [`WBS.pdf`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/charts/WBS.pdf) — full work breakdown structure
+- [`Organization_Cart`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/charts/Organization_Chart.pdf) - Organization Chart
+- [`Gantt_Chart.pdf`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/charts/Gantt_Chart.pdf) - Microsoft Project short overview
+- [`GanttChart_Full.pdf`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/charts/GanttChart_Full.pdf) — Microsoft Project full chart overview
+- [`GanttChart.mpp`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/charts/GantChart.mpp) - Gantt Chart in Microsoft Project
+- [`Project-Cost-Estimate.pdf`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/charts/Project_Cost_Estimate.pdf) — Full cost estimate
+- [`Contract_Types.pdf`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/charts/Contract_Types.pdf) —  Contract type analysis
+- [`Risk-Analysis.pdf`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/charts/Risk_Analysis.pdf) — risk analysis
+- [`Communications_plan.pdf`](https://github.com/Yunnna005/project-management-case-study-mtu/blob/main/charts/Comunications_plan.pdf) — Methods, meetings, and reporting plan
 
 
 ## Author
