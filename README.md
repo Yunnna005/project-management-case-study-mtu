@@ -55,8 +55,22 @@ Although the subject is a cultural event rather than a company.
 
 Microsoft Project (Gantt chart & scheduling) 
 
-- Microsoft Word & Excel (charter, budget, risk register) 
+- Microsoft Word & Excel (charter, budget, risk register)
+- Microsoft Project (Gantt Chart) 
 - Project management frameworks from Kathy Schwalbe's *Information Technology Project Management*
+
+## Repository Contents
+ 
+- `SoftwareProjectManagement_AnnaKovalenko.pdf` — Full document with objectives, sponsor, scope, success criteria, etc.
+- `WBS.pdf` — full work breakdown structure
+- `Gantt_Chart.pdf` - Microsoft Project short overview
+- `GanttChart_Full.pdf` — Microsoft Project full chart overview
+- `GanttChart.mpp` - Gantt Chart in Microsoft Project
+- `Project-Cost-Estimate.pdf` — Full cost estimate
+- `Contract_Types.pdf` —  Contract type analysis
+- `Risk-Analysis.pdf` — risk analysis
+- `Communications_plan.pdf` — Methods, meetings, and reporting plan
+
 
 ## Author
 
