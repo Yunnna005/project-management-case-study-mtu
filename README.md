@@ -53,10 +53,14 @@ Although the subject is a cultural event rather than a company.
 
 ## Tools Used
 
-Microsoft Project (Gantt chart & scheduling) · Microsoft Word & Excel (charter, budget, risk register) · Project management frameworks from Kathy Schwalbe's *Information Technology Project Management*
+Microsoft Project (Gantt chart & scheduling) 
+
+- Microsoft Word & Excel (charter, budget, risk register) 
+- Project management frameworks from Kathy Schwalbe's *Information Technology Project Management*
 
 ## Author
 
 **Anna Kovalenko**
 BSc (Hons) Computing, MTU Kerry
+
 [LinkedIn](https://www.linkedin.com/in/anna-kovalenko-cs)
